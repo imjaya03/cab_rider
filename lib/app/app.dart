@@ -36,6 +36,11 @@ class App extends StatelessWidget {
   }
 
   ThemeData _buildThemeData() {
-    return ThemeData();
+    const MaterialColor primaryColor = Colors.deepPurple;
+    const MaterialColor accentColor = Colors.amber;
+    return ThemeData(
+      primarySwatch: primaryColor,
+      accentColor: accentColor,
+    );
   }
 }

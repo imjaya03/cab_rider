@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "851887019977",
+    "firebase_url": "https://cab-rider-f84d2-default-rtdb.firebaseio.com",
+    "project_id": "cab-rider-f84d2",
+    "storage_bucket": "cab-rider-f84d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851887019977:android:2ef867ebcc4fe3fe90ba18",
+        "android_client_info": {
+          "package_name": "com.jayadrata.cab_rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851887019977-ldeog7qgbpfmijjme3eeb3ee0k2qr31h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsTVvexUI_Lzfpx2WPiutd9GV756R2_uE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851887019977-ldeog7qgbpfmijjme3eeb3ee0k2qr31h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

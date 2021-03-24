@@ -7,7 +7,7 @@ class DemoScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Demo Screen'),
+        title: Text('Demo Screen'.toUpperCase()),
       ),
       body: Center(
         child: Text(
